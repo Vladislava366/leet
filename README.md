@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vladislava366/leet/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Vladislava366/leet/tree/master/0905-sort-array-by-parity) |
 | [2363-merge-similar-items](https://github.com/Vladislava366/leet/tree/master/2363-merge-similar-items) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vladislava366/leet/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Vladislava366/leet/tree/master/0905-sort-array-by-parity) |
 | [2363-merge-similar-items](https://github.com/Vladislava366/leet/tree/master/2363-merge-similar-items) |
 ## Ordered Set
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vladislava366/leet/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Vladislava366/leet/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
