@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vladislava366/leet/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/Vladislava366/leet/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Vladislava366/leet/tree/master/0905-sort-array-by-parity) |
 | [2363-merge-similar-items](https://github.com/Vladislava366/leet/tree/master/2363-merge-similar-items) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vladislava366/leet/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/Vladislava366/leet/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Vladislava366/leet/tree/master/0905-sort-array-by-parity) |
 | [2363-merge-similar-items](https://github.com/Vladislava366/leet/tree/master/2363-merge-similar-items) |
